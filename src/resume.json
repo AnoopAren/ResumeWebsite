@@ -1,0 +1,164 @@
+{
+  "basics": {
+    "name": "Anoop Agarwal",
+    "label": "Lead Full Stack Developer",
+    "picture": "./profilePhoto.jpg",
+    "email": "AnoopAren@gmail.com",
+    "phone": "+1-510-759-9543",
+    "website": "http://AnooAgarwal.com",
+    "summary": "Over the past 12 years I have continuously challenged myself with new languages, frameworks and methodologies. My core languages have always been C#, VB .NET. However now i am more interested in Javascript deveopment(React) and Scrum. I am also a certified Scrum master.",
+    "location": {
+      "address": "",
+      "postalCode": "53202",
+      "city": "Milwaukee",
+      "countryCode": "United States",
+      "region": "Wisconsin"
+    },
+    "profiles": [
+      {
+        "network": "facebook",
+        "username": "anooparen",
+        "url": ""
+      },
+      {
+        "network": "Linkedin",
+        "username": "anoopagarwalindia",
+        "url": ""
+      },
+      {
+        "network": "Github",
+        "username": "AnoopAren",
+        "url": ""
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Northwestern Mutual",
+      "position": "Technology Lead",
+      "website": "http://nrma.com.au",
+      "startDate": "2014-03-01",
+      "endDate": "",
+      "summary": "I am currently working as a lead developer on team building\\supporting Insurance applications and I am across multiple applications that have been built or are being built using our new development stack(React, Redux, node microservices, microapps). NM is keen to utilise the latest front end technologies and we have had great success as a team using React/Redux running on a Node Express server and using an API backend architecture to access the various NM systems. I am also developing and suporting on old development stack which is in ASP.NET MVC and Java webservices.",
+      "highlights": []
+    },
+    {
+      "company": "Infosys Ltd",
+      "position": "Technology Lead",
+      "website": "",
+      "startDate": "2010-10-01",
+      "endDate": "",
+      "summary": "I worked on a couple of large applications for the two clients.I worked as Team Lead in these projects. One application was SSIS migration project and other one was VB to VB.NET migration project.",
+      "highlights": []
+    },
+    {
+      "company": "Truworth Infotech",
+      "position": "Sr. Software Developer",
+      "website": "",
+      "startDate": "2009-10-01",
+      "endDate": "2010-10-01",
+      "summary": "Worked as a Web developer, I developed Hospital information Managemnet system. This was developed in ASP.NET with web forms. I also developed another application Doctor Shahab desktop which was developed in WPF with SQL server. Some of the small utilities like bill link were also developed.",
+      "highlights": []
+    },
+    {
+      "company": "Braintree Advisory & Consulting Group",
+      "position": "Software Developer",
+      "website": "",
+      "startDate": "2007-10-01",
+      "endDate": "2008-10-01",
+      "summary": "I was responsible for developing online Selling website with  in Asp .NET. I also worked some time in power builder/ pocket builder in this company. I worked on the website http://www.orientalgemco.com.",
+      "highlights": []
+    },
+    {
+      "company": "Market Access Solutions India Pvt Ltd",
+      "position": "Software Developer",
+      "website": "",
+      "startDate": "2007-01-01",
+      "endDate": "2007-10-01",
+      "summary": "I worked on the website http://strategicreports.com. This website is made for the customers who want to access information regarding oncology on different Criteria's. My role was to build the website in asp.net",
+      "highlights": []
+    },
+    {
+      "company": "Retina-X-Studios, LLC",
+      "position": "Software Developer",
+      "website": "",
+      "startDate": "2006-08-01",
+      "endDate": "2007-01-01",
+      "summary": "As application developer, I was responsible to develop network monitoring software Net Orbit(http://www.net-orbit.com/tablet/index.html). This was my first opportunity to work on windows api and i was able to build this application with in a short span.",
+      "highlights": []
+    },
+    {
+      "company": " Oswal Data Processors Pvt. Ltd",
+      "position": "Software Developer",
+      "website": "http://soapcreative.com",
+      "startDate": "2006-07-01",
+      "endDate": "2010-03-01",
+      "summary": "This was my first opportunity to build a real business application. I was responsibile to build this application in VB 6.0 and sql server, Crystal Report. This application was made to keep monitoring of letters received by Directorate of local bodies, Rajasthan Govt.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University Of Rajasthan",
+      "area": "Information Technology",
+      "studyType": "Bachelor Of Engineering",
+      "startDate": "2001-04-01",
+      "endDate": "2005-04-30",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Front End Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "ES2015",
+        "jQuery",
+        "React",
+        "Handlebars",
+        "LESS",
+        "Babel",
+        "Bootstrap",
+        "Node",
+        "MySQL",
+        "Git",
+        "Node",
+        "MySQL",
+        "Git",
+        "Responsive",
+        "Asp.net MVC",
+        "C#.net",
+        "SCRUM",
+        "WCF",
+        "WPF",
+        "Visual Studio",
+        "Web Storm",
+        "Crystal Report",
+        "Kibana",
+        "VB 6.0",
+        "Oracle 9 I",
+        "SQL Server"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Guitar",
+      "keywords": []
+    }
+  ],
+  "references": []
+}
