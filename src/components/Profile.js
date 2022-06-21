@@ -20,7 +20,7 @@ const Profile = props => {
                   <div className="divider"></div>
                   <ul className="profileLinks list-inline text-center">
                   <b className="text">Download Resume:</b>
-                  <li><a className="fa fa-file-pdf-o fa-2x" href='./Anoop_Agarwal.pdf'></a></li>
+                  <li><a className="fa fa-file-pdf-o fa-2x" href='./Anoop%20%20Agarwal%20Resume%201.pdf'></a></li>
                   </ul>
 
                   <div className="divider"></div>
